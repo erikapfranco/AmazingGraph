@@ -7,7 +7,7 @@ CSS
 
 # Requirements:
  - [x]  Sua página deve se parecer o mais próximo possível do design<br>
- - []  Sua página deve ser responsiva (ainda não aprendi sobre)<br>
+ - [ ]  Sua página deve ser responsiva (ainda não aprendi sobre)<br>
 
 # Cores utilizadas:
 Orange: #D2872C<br>
