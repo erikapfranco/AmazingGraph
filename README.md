@@ -2,8 +2,8 @@
 O desafio, retirado da plataforma <a href="https://www.devchallenge.com.br/">DevChallenge</a> consistia em criar uma página sobre um site de criação de gráficos.
 
 # Linguagens utilizadas: 
-HTML<br>
-CSS
+- HTML<br>
+- CSS<br>
 
 # Requirements:
  - [x]  Sua página deve se parecer o mais próximo possível do design<br>
