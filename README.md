@@ -1,5 +1,5 @@
 # Desafio AmazingGraph
-O desafio, retirado da plataforma <a href="https://www.devchallenge.com.br/">DevChallenge</a> consistia em criar uma página sobre um site de criação de gráficos.
+O desafio, retirado da plataforma <a href="https://www.devchallenge.com.br/">DevChallenge</a>, consistia em criar uma página sobre um site de criação de gráficos.
 
 # Linguagens utilizadas: 
 - HTML<br>
