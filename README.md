@@ -5,7 +5,7 @@ O desafio, retirado da plataforma <a href="https://www.devchallenge.com.br/">Dev
 - HTML<br>
 - CSS<br>
 
-# Requirements:
+# Requerimentos:
  - [x]  Sua página deve se parecer o mais próximo possível do design<br>
  - [ ]  Sua página deve ser responsiva (ainda não aprendi sobre)<br>
 
